@@ -45,3 +45,7 @@ This repository contains codes for the paper *Emergent Universal Quench Dynamics
 - **MATLAB_fit**
     - `Sx` folder contains data for three numerical simulations, and `Exp_PlotData_new_method` folder is for experimental data.
     - `LargeM_quench_x_all.mlx`, `Meanfield_quench_x_all.mlx`, `ED_quench_x_all.mlx`, `Exp_quench_x_all.mlx` are four separate Matlab notebook files to serious deal with the standard deviation and best fitting parameter.
+
+## Contact
+
+Email: tgzhou.physics@gmail.com
