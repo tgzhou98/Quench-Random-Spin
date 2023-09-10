@@ -1,0 +1,10 @@
+Tlist, [25.0]
+begin_hinJ, 10.0
+end_hinJ, 10.0
+step_hinJ, 0.4
+std_betaJ, 6.283185307179586
+field, x
+f, [-0.25, -0.75, 1.0]
+JbarinJ, 0.0
+Λω, 12.0
+Λt_arr, [20.0;;]
